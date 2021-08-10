@@ -4,7 +4,7 @@ a. Instructions about how to run and test your code.
     
    Open the folder in IDE like Visual Studio.
     Type the following commands in the terminal
-        npm install
+ 
         npm start
 
 b. List elements from the challenge thatyou think you  have done well,and that exemplify your proficiency. Please describe why you chose those elements, and how they demonstrate your proficiency.
