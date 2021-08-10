@@ -1,5 +1,7 @@
 Create a brief readme.md file with the following content:
 
+Note : File size is large because npm modules comes pre installed. 
+
 a. Instructions about how to run and test your code.
     
    Open the folder in IDE like Visual Studio.
